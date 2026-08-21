@@ -1,0 +1,20 @@
+{
+  "id": "VersionCristal",
+  "name": "Version Cristal",
+  "version": "0.1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "LANGUAGE",
+  "games": [
+    "crystal"
+  ],
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "language": true,
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "github": "Davo1914/VersionCristal-Gen2Recomped-Spanish",
+  "description": "Version en español para Pokemon Crystal de Gen2Recomped. Traducción realizada por Davo1914 a partir de la traducción de LordSangreal."
+}
