@@ -1,4 +1,4 @@
--- Que sequencia de bytes desenha qual glifo da pagina acima.
+-- Qué secuencia de bytes dibuja qué glifo de la página de arriba.
 return {
   ["á"] = 0x100,
   ["â"] = 0x101,
